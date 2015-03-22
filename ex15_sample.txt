@@ -1,0 +1,4 @@
+Hellow world!
+This is a sample file to test the function below:
+open( )
+.read()
